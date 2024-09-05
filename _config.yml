@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "LazaruLong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Hydra-Foto.jpg"
   bio              : "I am a computational scientist that became fascinated with health and aging and the potential of quantified-self approach for optimising both."
   location         : "Europe"
   email            : lazarulong@gmail.com
