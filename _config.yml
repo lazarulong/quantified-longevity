@@ -61,7 +61,7 @@ comments:
     lazy                 : # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
   staticman:
     branch               : "master"
-    endpoint             : "https://staticman-theta.vercel.app//v3/entry/github/"
+    endpoint             : "https://staticman-theta.vercel.app/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
