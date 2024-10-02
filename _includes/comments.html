@@ -14,6 +14,8 @@
       <section id="static-comments">
         {% if site.repository and site.comments.staticman.branch %}
           <!-- Start static comments A-->
+          <p>{{ site.data.comments[page.slug] | inspect }}</p>
+            
           <div class="js-comments">
             {% if site.data.comments[page.slug] %}
               <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
