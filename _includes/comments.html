@@ -15,6 +15,8 @@
         {% if site.repository and site.comments.staticman.branch %}
           <!-- Start static comments A-->
           <p>{{ site.data.comments[page.slug] | inspect }}</p>
+          <p>{{ page.slug | inspect }}</p>
+          <p>{{ site.data.comments | inspect }}</p>
             
           <div class="js-comments">
             {% if site.data.comments[page.slug] %}
