@@ -18,8 +18,7 @@ Let me now dive into each of the components a little bit deeper.
 ### Telegram surveys
 I have coded a simple Telegram survey bot, that allows pre-defined surveys to be sent to the user onto a telegram channel at pre-specified time each day (or subset of days depending on configuration). Here you can see an example of such survey in the telegram channel that I respond to every morning that assesses the subjective quality of my sleep. It takes about 2 minutes to fill in.
 
-[[https://github.com/lazarulong/quantified-longevity/blob/master/assets/images/posts/tracking_system_implementation/Screenshot_20240206-181700.png]]
-
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/tracking_system_implementation/Screenshot_20240206-181700.png)
 
 The telegram bot collects the data and sends it via API into the AirTable database. New surveys can be rapidly added or modified in
 a simple configuration file. In the figure below you can see a configuration of a simple survey that allows me to rapidly enter lung function test results after I obtain them from the SmartOne device, which unfortunately does not offer an API for automated data downloads:
