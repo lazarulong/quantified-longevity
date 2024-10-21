@@ -3,15 +3,9 @@
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
 
   <form action="https://buttondown.com/api/emails/embed-subscribe/llong" method="post" class="embeddable-buttondown-form">
-    <label for="email">Email</label>
-    <input type="email" name="email" placeholder="you@example.com" />
+    <input type="email" name="email" placeholder="your email" />
     <input type="hidden" value="1" name="embed" />
-    <input type="submit" value="Subscribe" />
-    <p>
-      <a href="https://buttondown.com" target="_blank">
-        Powered by Buttondown.
-      </a>
-    </p>
+    <input type="submit" value="Subscribe" style="background-color: #04AA6D" />
   </form> 
 
     
