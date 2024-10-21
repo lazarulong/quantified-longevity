@@ -12,7 +12,7 @@ my effort level.
 Interestingly, it turns out that there is a strong positive association (R=0.33; N=70; p<0.005) between the fasting glucose on the day 
 of the run and the average heart rate the chest strap recorded during the run: 
 
-![Fig 1](/assets/images/posts/fbg_and_polarHR/PolarHR.png) 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/fbg_and_polarHR/PolarHR.png) 
 
 If I shift the data by one day, such that I correlate the blood glucose from the previous day, a smaller but still statistically 
 highly significant association remains (R=0.27; p=0.02). On the other hand if I shift the data the other way around - i.e. testing the 

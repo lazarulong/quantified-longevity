@@ -57,10 +57,10 @@ Fitbit Inspire also provides the duration of the three basic sleep stages: REM, 
 
 I had about 265 min of Light sleep, 87 min of REM sleep, and 67 min of Deep sleep per night over the last roughly 3 years, and this seemed to have been fairly stable over time (Fig 1,2,3). My total sleep time was about 7:25 per night (Fig 4), which is roughly in line with my goal. Where I, however, have substantially shortcoming is the compOstion/quality of my sleep, but I will come back to this in future blogs.
 
-![Fig1: My light sleep in minutes over the last year.](/assets/images/posts/basic_sleep_characteristics/Light_sleep.png)
-![Fig1: My REM sleep in minutes over the last year.](/assets/images/posts/basic_sleep_characteristics/REM_sleep.png)
-![Fig1: My deep sleep in minutes over the last year.](/assets/images/posts/basic_sleep_characteristics/Deep_sleep.png)
-![Fig1: My total sleep time in minutes over the last year.](/assets/images/posts/basic_sleep_characteristics/Total_sleep_time.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/basic_sleep_characteristics/Light_sleep.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/basic_sleep_characteristics/REM_sleep.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/basic_sleep_characteristics/Deep_sleep.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/basic_sleep_characteristics/Total_sleep_time.png)
 
 
 For now let us look at the relationship between these sleep components and the 

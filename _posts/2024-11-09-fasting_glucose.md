@@ -8,7 +8,7 @@ multi-week gaps while staying on longer holidays or running out of test strips w
 
 This is how the data looks over time:
 
-![Fig 1](/asstes/images/fasting_glucose/base_data.png)
+![alt]({{ site.url }}{{ site.baseurl }}/asstes/images/fasting_glucose/base_data.png)
 
 You can see considerable variation, and you can see that I do not unfortunately always stay in the ideal range bellow 5.5 mmol/l. 
 Over the time I have also worn CGM twice, and I learned that I do suffer from a mild dawn syndrome. Nevertheless, I will write 
@@ -25,7 +25,7 @@ seems to be much larger than that of added refined sugar that I track as well.
 One rather very surprising but very robust association that turned up is between the intake of elemental magnesium and 
 fasting blood glucose (R=0.2;p<1e-10):
 
-![Fig 2](/asstes/images/fasting_glucose/magnesium.png)
+![alt]({{ site.url }}{{ site.baseurl }}/asstes/images/fasting_glucose/magnesium.png)
 
 This is highly surprising, because if you do just a cursory search on benefits of supplementing magnesium, improved blood 
 glucose control is one of the most common claims that shows up. And these actually have a decent backing in clinical 
@@ -43,7 +43,7 @@ remains.
 I was supplementing Lycopene on an off for last two years, and to my surprise it is rather strongly positively correlated 
 with my morning fasting glucose (R=0.21;p<1e-8). 
 
-![Fig 3](/asstes/images/fasting_glucose/lycopene.png)
+![alt]({{ site.url }}{{ site.baseurl }}/asstes/images/fasting_glucose/lycopene.png)
 
 A cursory look through the literature yields this metanalysis of 15 clinical studies [2], that concludes that 
 'lycopene intake exerted an fasting-blood-glucose-decreasing effect', in direct contradiction 
@@ -70,7 +70,7 @@ back.
 I supplement Iodine from time to time in the form of Iodine potassium. I took different dosages over the years. 125 and 30 mg per day.
 I found that iodine supplementation is the single most strongly negatively associated variable with my fasting blood glucose (R=0.17; p<1e-7) - certainly not the outcome I would expect.
 
-![Fig 4](/asstes/images/fasting_glucose/iodine_vs_FSG.png)
+![alt]({{ site.url }}{{ site.baseurl }}/asstes/images/fasting_glucose/iodine_vs_FSG.png)
 
 A search on pubmed reveals that link between thyroid function has already been described [3] but a quick dive revealed that the 
 interactions are rather complex, so I will refrain from speculating on the potential mechanisms of what I see in my data for now
@@ -85,7 +85,7 @@ For a change this, one is not that surprising. The ability of fiber, particularl
 slowing down absorption of carbohydrates is well established. And Psyllium husk si one of the richest sources of it, which is exactly
 why I add it to my diet. Interestingly, in my case, I see a small but statistically significant positive effect also directly on my fasting blood glucose levels (R=-0.14;p=0.002): 
 
-![Fig 5](/asstes/images/fasting_glucose/psyllium.png)
+![alt]({{ site.url }}{{ site.baseurl }}/asstes/images/fasting_glucose/psyllium.png)
 
 The effect is small, the 15g intake that I usually add in my smoothie, reduces the morning fasting glucose by about 0.1 mmol/L.
 

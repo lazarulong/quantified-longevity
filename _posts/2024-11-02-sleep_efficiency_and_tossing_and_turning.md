@@ -16,7 +16,7 @@ Interestingly I observe very strong correlation between the amount of vitamin D 
 the sleep efficiency. This is particularly visible by local smoothing of the data, bellow I am showing the vitamin D
 relationship, but the pattern looks very similar for glycine:
 
-![Fig 1](/assets/images/posts/sleep_efficiency_and_tossing_and_rurning/vitd.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/sleep_efficiency_and_tossing_and_rurning/vitd.png)
 
 ## Strength training seems to worsen my sleep efficiency
 
@@ -31,7 +31,7 @@ higher systolic blood pressure. I almost always measure it in the evening after 
 Unfortunately, in this case, I have no idea in which direction the causality might be pointing in,
 but I thought this is an interesting observation. Perhaps there is a common factor such as stress or large amount of exercise that both increases the blood pressure and restlessness during the night.
 
-![Fig 2](/assets/images/posts/sleep_efficiency_and_tossing_and_rurning/UC_sleep_efficiency_and _tossing_and turning/TT_BPSys.png)
+![alt]({{ site.url }}{{ site.baseurl }}//assets/images/posts/sleep_efficiency_and_tossing_and_rurning/UC_sleep_efficiency_and _tossing_and turning/TT_BPSys.png)
 
 ## Magnesium malate is positively associated with tossing & turning
 
@@ -44,7 +44,7 @@ Another pretty surprising positive association between the level of restlesssnes
 I now checked, and indeed the FSS is also negatively impacted by consumption of tomatoes, but less
 strongly than specifically the tossing & turning variable.
 
-![Fig 3](/assets/images/posts/sleep_efficiency_and_tossing_and_rurning/tomatos.png)
+![alt]({{ site.url }}{{ site.baseurl }}//assets/images/posts/sleep_efficiency_and_tossing_and_rurning/tomatos.png)
 
 ## Walked distance reduced restlessness 
 

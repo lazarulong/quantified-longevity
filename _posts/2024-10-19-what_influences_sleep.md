@@ -10,7 +10,7 @@ Let's go.
 
 Rather unsurprisingly the single most negatively impacting intervention on my sleep is Alcohol (R=-0.2; p=1.6^-9):
 
-![Fig 1](/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 20-19-48.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 20-19-48.png)
 
 What is worth pointing out, that even the smallest tracked amount - one unit, that corresponds to roughly a small beer, already has a negative impact.
 
@@ -18,7 +18,7 @@ What is worth pointing out, that even the smallest tracked amount - one unit, th
 ## Sour cherry
 I've been testing adding sour cherry (frozen) into my smoothies due to several potentially positive impacts, particularly for increasing dietary nitrates, helping exercise recovery, and reducing uric acid. Surprisingly, I am also detecting a mildly positive impact on my sleep, with it being positively correlated with Fitibit Sleep Score.
 
-![Fig 2](/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 17-05-59.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 17-05-59.png)
 
 The effect is small but highly significant (R=0.16; p=0.0083). The correlation completely disappears if I shift the data just by one day, which further increases my confidence this is a real effect. Interestingly, there are actually studies showing the positive effect of sour cherry juice on sleep \[[1](https://pubmed.ncbi.nlm.nih.gov/20438325),[2](https://www.cdc.gov/sleep/index.html)\]. It is worth noting that I typically have (a lot) less than 100g of the frozen cherries in my smoothie (I don't weigh them every day) and drink the smoothie before 12 am which indicates that greater impact could be gained by increasing the dose and ingesting them in the evening, as in the studies.
 
@@ -30,13 +30,13 @@ or tomato sauce cause heavy stomach and poor sleep. To my surprise, after collec
 ## Cider vinegar
 Another rather surprising relationship I discovered is that cider vinegar, that I put on my salads is also slightly correlated with the quality of my sleep (R=0.123,P=0.003). Bellow you can see the small effect:
 
-![Fig 3](/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 19-23-41.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 19-23-41.png)
 
 Note that very occasionally I have two such salads a day, which leads to having two tablespoons of cider vinegar on that day, but there were so far too few occasions of that leaving the error bars large. The relationship is weak, but I noticed that it is stable over time - i.e. if I look at both the first and last year of my tracked data I find the same effect in both, which makes me believe it is real.
  
 One important confounding factor could be that I always have cider vinegar with salad, so it could be some of the other salad ingredients. The reason why I am sure it is the cider vinegar is, that sometimes I put balsamic vinegar instead. Surprisingly, If I look at the correlation between salad consumption and sleep there is a negative correlation:
 
-![Fig 4](/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 19-30-19.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 19-30-19.png)
 
 Given that I am not aware of any other ingredient systematically changing between the salads I consume with cider vinegar and balsamic vinegar, a conclusion at hand is that the latter has actually negative mpact on my sleep. I find this rather perplexing and intend to look into this further.
 
@@ -51,13 +51,13 @@ The third - and also unexpected - positive intervention seems to be Hyaluronic A
 While I try to avoid it as much as possible, it still happens from time to time that I eat some ultra-processed food. Interestingly, even with such low frequency I can still clearly see the negative impact on
 my sleep the following night:
 
-![Fig 5](/assets/images/posts/what_influences_my_sleep/ultra_processed_food_vs_sleep.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/what_influences_my_sleep/ultra_processed_food_vs_sleep.png)
 
 ## The surprising absence of effects.
 
 Perhaps the most surprising findings are actually the lack of relationship between Fitbit sleep score and several interventions specifically aimed at sleep. I supplement quite regularly (before sleep) with Magnesium Threonate which is supposed to improve sleep, but I cannot see any indication of this in my data whatsoever.
 
-![Fig 6](/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 20-55-19.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 20-55-19.png)
 
 Likewise, I supplement lithium orotate before sleep, not specifically for sleep, but for overall moods stabilization, and the putative longevity effects, but I had the expectation it should also have a positive impact on sleep, which it doesn't seem so.
 Another supplement I tested that is hailed for its sleep improving effects is phosphatidylserine, that should have cortisol lowering effects, and hence should improve sleep, yet I cannot find evidence for this in my data at all as well.
