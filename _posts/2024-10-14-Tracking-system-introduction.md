@@ -1,6 +1,6 @@
-My long-term goal is to track as wide a range of variables related to my body and environment as possible, while minimizing the time investment by automating the process to the greatest extent. In this blog, I aim to outline what I track and how I go about it.
+My long-term goal is to track as many variables related to my body and environment as possible, while minimizing the time required by automating the process to the greatest extent. In this blog, I’ll outline what I track and how I go about it.
 
-I began tracking in earnest on February 16, 2021. The range of variables I monitor has gradually expanded. Currently, I track over 300 variables across the following  categories/devices:
+I began tracking in earnest on February 16, 2021, and the range of variables I monitor has gradually expanded. I now track over 300 variables across the following categories/devices:
 
 * Daily habits
 * Supplements
@@ -16,28 +16,27 @@ I began tracking in earnest on February 16, 2021. The range of variables I monit
 * Bi-monthly blood tests
 * Medication
 
-In addition to these regularly tracked variables, I also conduct various one-off  (or very occasional) tests, such as food intolerance and genetic/epigenetic tests, which
-are not directly part of this tracking framework, but may become relevant as I delve deeper into the analysis.
+In addition to these regularly tracked variables, I also conduct various one-off (or very occasional) tests, such as food intolerance and genetic/epigenetic tests. While not part of my core tracking framework, these may become relevant as my analysis deepens.
 
-Below, I provide a brief overview of each category and the rationale behind its inclusion. While I won't list all the tracked variables here, I plan to explore each category in more detail in future posts. In the next blog I will then outline the  technological stack I have implemented to collect and analyze all this data.
+Below is a brief overview of each category and the rationale for tracking it. I won't list every variable here, but I plan to explore each category in detail in future posts. In the next post, I'll outline the technological stack I've implemented to collect and analyze all this data.
 
 ## Daily Habits
 
-This category encompasses a diverse array of health indicators that I manually log every evening, such as my overall energy levels, sleep quality, and mood or stress levels.
+This category includes a diverse range of health indicators that I manually log each evening. These for example include my overall energy level, sleep quality, mood, or stress level.
 
 ## Supplements
 
-As the name suggests, this category is where I record the supplements I take daily. Over the years, I've experimented with a wide range of supplements, and future analyses will focus heavily on this category.
+This section tracks the supplements I take daily. Over the years, I’ve experimented with a wide variety of supplements, and future analyses will put a lot of focus on this category.
 
 ## Diet
 
-This is the area where I'm least satisfied with my current tracking methodology. Ideally, I would track the exact weight of each basic food ingredient daily, but I haven't found a sufficiently simple and time-efficient solution. Eating out for almost every lunch and cooking a wide variety of dishes at home makes tools like Chronometer impractical without significant extra time, planning, and discipline. With the advent of strong AI, solutions are on the horizon that might crack this problem for me. We'll see.
+This is the area where I’m least satisfied with my current tracking approach. Ideally, I would log the exact weight of each ingredient I consume daily, but I haven't yet found a simple, time-efficient solution. Given that I eat out for most lunches and prepare a wide variety of meals at home, tools like Chronometer are impractical without significant extra effort, planning, and discipline. However, with advancements in AI, I’m hopeful a solution will emerge soon. Time will tell.
 
-Currently, I track a broad set of dietary components, which is however far from comprehensive, in a simplified manner, using levels such as ['none', 'a little', 'a lot'] or a binary flag to indicate whether I consumed a particular component that day. There are a few exceptions where I do track the exact weight, such as for key but simple to track nutrients such as 'added sugar'.
+For now, I track a broad set of dietary components in a simplified manner, using levels like ['none', 'a little', 'a lot'] or binary flags to indicate whether I consumed a particular component that day. A few key nutrients, like added sugar, are exceptions where I do track exact amounts.
 
 ## Smoothie
 
-I prepare a fresh smoothie daily, and its composition has evolved significantly over time. I track all its components daily, warranting its classification as a separate category.
+I prepare a fresh smoothie daily, and its composition has evolved significantly over time. I track all the ingredients daily, which justifies its classification as a separate category.
 
 ## Sleep
 
@@ -45,15 +44,15 @@ Every day, I receive a questionnaire at 8 AM to assess my sleep quality, coincid
 
 ## Fitbit Tracker
 
-I wear a Fitbit tracker, currently the Fitbit Charge 6, and have automated the data extraction process. Notable parameters include Sleep Score, sleep duration, deep and REM sleep duration, deep sleep HRV, daily HRV, resting heart rate, distance walked, skin temperature, breathing rate during sleep, and sedentary minutes, but I track all available via the Fitbit API.
+I wear a Fitbit, currently the Charge 6, and have automated the data extraction process. Notable metrics I track include Sleep Score, sleep duration, deep and REM sleep stages, deep sleep HRV, daily HRV, resting heart rate, steps taken, skin temperature, breathing rate during sleep, and sedentary minutes. I track all parameters available via the Fitbit API.
 
 ## Withings Scale
 
-I use the Withings Body scale each morning to measure weight, body composition, and pulse wave velocity. An automated script imports these values into my central database.
+Each morning, I use the Withings Body scale to measure my weight, body composition, and pulse wave velocity. I’ve automated the import of these values into my central database.
 
 ## Blood Pressure
 
-Each evening after I get into bed, I measure my blood pressure with the Withings BP monitor, with an automated script importing the data.
+Occasionaly, after I get into bed, I measure my blood pressure with the Withings BP monitor, and an automated script uploads the data into my system.
 
 ## Heart Rate Variability
 
@@ -65,7 +64,7 @@ Each morning, I measure my fasting blood glucose using a standard strip-based gl
 
 ## Bi-monthly Blood Tests
 
-About every two months, I undergo a basic blood test panel that includes around 40 key biomarkers. I also occasionally test additional parameters that are too costly for frequent analysis.
+Approximately every two months, I undergo a basic blood panel, which includes around 40 key biomarkers. Occasionally, I test for additional parameters, that are too costly for frequent analysis.
 
 ## Medication
 

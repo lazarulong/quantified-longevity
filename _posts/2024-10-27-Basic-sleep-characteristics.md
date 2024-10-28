@@ -1,7 +1,7 @@
-I've been tracking multiple variables that should reflect the quality of sleep.
-Here, I will examine relationships between them, and determine a subset that seems to best reflect the restorative quality of the sleep. In future posts, I will narrow my focus on variables in this subset and correlate them to other tracked variables to determine what factors influence my sleep.
+I've been tracking multiple key variables that should reflect the quality of sleep.
+Here, I will examine relationships between them, and determine a subset that seems to best reflect the restorative quality of the sleep. In future posts, I will narrow my focus on these best sleep quality metrics and correlate them to other tracked variables to determine what factors influence my sleep.
 
-## Subset of sleep quality variables I track
+## Key sleep quality variables I track
 
 * Fitbit sleep score (FSS) \[score 1-100\] (Fitbit Inspire)
 * Subjective sleep quality (SSQ) \[score 1-10\] (Manual tracking in the evening directly into AirTables)
@@ -53,7 +53,7 @@ two is probably highly related.
 
 Fitbit Inspire also provides the duration of the three basic sleep stages: REM, Light, and Deep and their sum - the total sleep time (TST). Let's have a look at the baseline characteristics of these three variables.
 
-I had about 265 min of Light sleep, 87 min of REM sleep, and 67 min of Deep sleep per night over the last roughly 3 years, and this seemed to have been fairly stable over time (Fig 1,2,3). My total sleep time was about 7:25 per night (Fig 4), which is roughly in line with my goal. Where I, however, have substantially shortcoming is the compOstion/quality of my sleep, but I will come back to this in future blogs.
+I had about 265 min of Light sleep, 87 min of REM sleep, and 67 min of Deep sleep per night over the last roughly 3 years, and this seemed to have been fairly stable over time (Fig 1,2,3). My total sleep time was about 7:25 per night (Fig 4), which is roughly in line with my goal. Where I, however, have substantially shortcoming is the compostion/quality of my sleep, but I will come back to this in future posts.
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/basic_sleep_characteristics/Light_sleep.png)
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/basic_sleep_characteristics/REM_sleep.png)
@@ -123,6 +123,6 @@ the gains would be modest, and I am better of optimizing directly Fitbit Sleep S
 
 
 * The Fitbit FSS is the best predictor of me feeling energetic next day, and is well correlated with my subjective feeling of sleep quality, indicating that I should keep using it as the primary objective automatically tracked marker of sleep quality going further. 
-* While REM and Deep sleep duration does contribute to the FSS, as does the amount of Awake time during night, we see that on their own they are poorly correlated with my subjective feeling of restfulness. This indicates to me that while some small benefits from increasing REM or Deep sleep can potentially be made, focusing on them is unlikely to give better results in terms of feeling well rested and energetic.
-* but I will still try to focus on reducing the Awake time for the simple reason that it would allow me to reduce the amount of time I dedicate to sleep without compromising its benefits.
+* While REM and Deep sleep duration does contribute to the FSS, as does the amount of Awake time during night, we see that on their own they are poorly correlated with my subjective feeling of restfulness. This indicates to me that while some small benefits from increasing REM or Deep sleep can potentially be made, focusing on them is unlikely to give substantially better results in terms of feeling well rested and energetic.
+* On the other hand Tossing & Turning is better correlated with feeling of energy than the sleep stages, and might be hence better target for improvement.
 * It should be emphasized none of these conclusions imply that improving sleep quality could have other health benefits. Correlations of sleep parameters with other health parameters remain to be explored.
