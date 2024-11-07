@@ -1,18 +1,14 @@
-Plenty has been written on the importance of sufficient high quality sleep on health and longevity. In this blog we will look at factors that impact my sleep. Specifically, we will look at what interventions potentially impact quality of sleep measured as the Fitbit Sleep Score (FSS).
-
-We will look at impact on other measures of sleep, particularly Tossing & Turning and Awake time that I have identified as important considerations in a future blog.
-
-Let's go.
-
+Plenty has been written on the importance of sufficient high quality sleep on health and longevity. In this post we will look at factors that impact quality of my sleep measured as the Fitbit Sleep Score (FSS).
+We will also look at impact on other measures of sleep, particularly Tossing & Turning and Awake time that I have identified as important considerations in the [previous post](https://www.quantifiedlongevity.org/Basic-sleep-characteristics/). Let's go.
 
 ## Alcohol
 
-Rather unsurprisingly the single most negatively impacting intervention on my sleep is Alcohol (R=-0.2; p=1.6^-9):
+Rather unsurprisingly the single most negatively impacting intervention on my sleep is Alcohol (R=-0.2; p=1.6^-9): 
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 20-19-48.png)
 
-What is worth pointing out, that even the smallest tracked amount - one unit, that corresponds to roughly a small beer, already has a negative impact.
-
+I track the amount of alcohol I have consumed on the given day in units where 1 unit correspond roughly to a small beer or 1.5 dl glass or wine. 
+It is worth pointing out that even the smallest tracked amount - one unit (i.e. a small beer) already has a discernible negative impact.
 
 ## Sour cherry
 I've been testing adding sour cherry (frozen) into my smoothies due to several potentially positive impacts, particularly for increasing dietary nitrates, helping exercise recovery, and reducing uric acid. Surprisingly, I am also detecting a mildly positive impact on my sleep, with it being positively correlated with Fitibit Sleep Score.
