@@ -5,7 +5,9 @@ We will also look at impact on other measures of sleep, particularly Tossing & T
 
 Rather unsurprisingly the single most negatively impacting intervention on my sleep is Alcohol (R=-0.2; p=1.6^-9): 
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 20-19-48.png)
+
+{% capture image_path %}{{ site.url }}{{ site.baseurl }}/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 20-19-48.png{% endcapture %}
+{% include figure popup=true image_path=image_path alt="this is a placeholder image" caption="Alcohol vs. FSS" %}
 
 I track the amount of alcohol I have consumed on the given day in units where 1 unit correspond roughly to a small beer or 1.5 dl glass or wine. 
 It is worth pointing out that even the smallest tracked amount - one unit (i.e. a small beer) already has a discernible negative impact.
@@ -13,7 +15,8 @@ It is worth pointing out that even the smallest tracked amount - one unit (i.e. 
 ## Sour cherry
 I've been testing adding sour cherry (frozen) into my smoothies due to several potentially positive impacts, particularly for increasing dietary nitrates, helping exercise recovery, and reducing uric acid. Surprisingly, I am also detecting a mildly positive impact on my sleep, with it being positively correlated with Fitibit Sleep Score.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 17-05-59.png)
+{% capture image_path %}{{ site.url }}{{ site.baseurl }}/assets/images/posts/what_influences_my_sleep/Screenshot from 2024-02-17 17-05-59.png{% endcapture %}
+{% include figure popup=true image_path=image_path alt="this is a placeholder image" caption="Sour cherry vs. FSS" %}
 
 The effect is small but highly significant (R=0.16; p=0.0083). The correlation completely disappears if I shift the data just by one day, which further increases my confidence this is a real effect. Interestingly, there are actually studies showing the positive effect of sour cherry juice on sleep \[[1](https://pubmed.ncbi.nlm.nih.gov/20438325),[2](https://www.cdc.gov/sleep/index.html)\]. It is worth noting that I typically have (a lot) less than 100g of the frozen cherries in my smoothie (I don't weigh them every day) and drink the smoothie before 12 am which indicates that greater impact could be gained by increasing the dose and ingesting them in the evening, as in the studies.
 
