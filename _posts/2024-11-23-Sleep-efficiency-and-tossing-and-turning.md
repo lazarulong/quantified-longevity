@@ -1,12 +1,11 @@
-A major influence on both subjective perception of quality of sleep as well as Fitbit sleep score is the overall length of the sleep. Unfortunately, as much as I try to get about 7.5 and half hours of sleep a night, being disciplined going to the bed early has been an issue throughout my life, and am still failing at having truly consistent sleep schedule. Whats worse, my sleep habits fluctuate significantly over relatively long time scale, depending on the season and general stress levels. This major variable impact sleep might thus confound the impact of various interventions on sleep. 
+A major influence on both subjective perception of quality of sleep as well as Fitbit Sleep Score is the overall length of the sleep. Unfortunately, as much as I try to get about 7.5 and half hours of sleep a night, being disciplined going to the bed early has been an issue throughout my life, and am still failing at having truly consistent sleep schedule. Whats worse, my sleep habits fluctuate significantly over relatively long time scale, depending on the season and general stress levels. This major variable impact sleep might thus confound the impact of various interventions on sleep.
 
-One way of controlling it is to instead of looking at the overall sleep quality is to look at variables that indicate the quality of the sleep, not matter how long it was. I have at least 
-two such variables available.
+One way of controlling for the impact of sleep length is to instead of looking at Fitbit Sleep Score that depends on it is to look at variables that directly indicate the quality of the sleep, not matter how long it was. I have at least two such variables available.
 
-1. Sleep efficiency, which indicates what percentage of the in bed time I spent asleep.
+1. Sleep efficiency, which indicates what percentage of the time in bed I spent asleep.
 2. Tossing & turning, which is a Fitbit reported variable indicating how restless the sleep was.
 
-In this blog I will investigate what other tracked variables are associated with these two sleep efficiency proxies.
+In this post I will investigate what other tracked variables are associated with these two sleep efficiency proxies.
 
 ## Vitamin D and Glycing improve sleep efficiency 
 
