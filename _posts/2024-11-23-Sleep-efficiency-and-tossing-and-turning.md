@@ -1,6 +1,7 @@
-A major influence on both subjective perception of quality of sleep as well as Fitbit sleep score is the overall length of the sleep. Unfortunately, as much as I try to get about 7.5 and half hours of sleep a night, being disciplined going to the bed early has been an issue throughout my life, and am still failing at having truly consistent sleep schedule. Whats worse, my sleep habits fluctuate significantly over relatively long time scale, depending on the season and general stress levels. This major variable impact sleep might thus confound the impact of various interventions on sleep. 
 
-One way of controlling it is to instead of looking at the overall sleep quality is to look at variables that indicate the quality of the sleep, not matter how long it was. I have at least 
+A major influence on both subjective perception of quality of sleep as well as Fitbit sleep score is the overall length of the sleep, as I've shown in [this](https://www.quantifiedlongevity.org/Basic-sleep-characteristics/) previous post. Unfortunately, as much as I try to get about 7.5 and half hours of sleep a night, being disciplined and going to the bed early has been an issue throughout my life, and I am still failing at having truly consistent sleep schedule. Whats worse, my sleep habits fluctuate significantly over relatively long time scale, depending on the season and general stress levels. Thus the sleep length, which impacts sleep in a major way, might confound the impact of various other interventions on sleep. 
+
+One way of controlling it is to instead of looking at the overall sleep score, is to look at variables that indicate the quality of the sleep, not matter how long it was. I have at least 
 two such variables available.
 
 1. Sleep efficiency, which indicates what percentage of the in bed time I spent asleep.
@@ -8,19 +9,18 @@ two such variables available.
 
 In this blog I will investigate what other tracked variables are associated with these two sleep efficiency proxies.
 
-## Vitamin D and Glycing improve sleep efficiency 
+## Vitamin D and Glycine improve sleep efficiency 
 
 Interestingly I observe very strong correlation between the amount of vitamin D and glycine that I supplement and 
 the sleep efficiency. This is particularly visible by local smoothing of the data, bellow I am showing the vitamin D
 relationship, but the pattern looks very similar for glycine:
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/sleep_efficiency_and_tossing_and_rurning/vitd.png)
+{% capture image_path %}{{ site.url }}{{ site.baseurl }}/assets/images/posts/sleep_efficiency_and_tossing_and_rurning/vitd.png{% endcapture %}
+{% include figure popup=true image_path=image_path alt="this is a placeholder image" caption="Vitaming D vs. sleep efficiency" %}
 
 ## Strength training seems to worsen my sleep efficiency
 
 I also discovered a rather interesting patterns where strength training seems to have negative impact on my sleep efficiency, but cardio has not impact:
-
-
 
 ## 	Systholic blood pressure is positively associated with tossing & turning
 
@@ -29,7 +29,9 @@ higher systolic blood pressure. I almost always measure it in the evening after 
 Unfortunately, in this case, I have no idea in which direction the causality might be pointing in,
 but I thought this is an interesting observation. Perhaps there is a common factor such as stress or large amount of exercise that both increases the blood pressure and restlessness during the night.
 
-![alt]({{ site.url }}{{ site.baseurl }}//assets/images/posts/sleep_efficiency_and_tossing_and_rurning/UC_sleep_efficiency_and _tossing_and turning/TT_BPSys.png)
+{% capture image_path %}{{ site.url }}{{ site.baseurl }}/assets/images/posts/sleep_efficiency_and_tossing_and_rurning/TT_BPSys.png{% endcapture %}
+{% include figure popup=true image_path=image_path alt="this is a placeholder image" caption="Systolic blood pressure vs. Fitbit tossing & turning" %}
+
 
 ## Magnesium malate is positively associated with tossing & turning
 
@@ -42,7 +44,8 @@ Another pretty surprising positive association between the level of restlesssnes
 I now checked, and indeed the FSS is also negatively impacted by consumption of tomatoes, but less
 strongly than specifically the tossing & turning variable.
 
-![alt]({{ site.url }}{{ site.baseurl }}//assets/images/posts/sleep_efficiency_and_tossing_and_rurning/tomatos.png)
+{% capture image_path %}{{ site.url }}{{ site.baseurl }}/assets/images/posts/sleep_efficiency_and_tossing_and_rurning/tomatos.png{% endcapture %}
+{% include figure popup=true image_path=image_path alt="this is a placeholder image" caption="Tomato consumption vs. Fitbit tossing & turning" %}
 
 ## Walked distance reduced restlessness 
 
