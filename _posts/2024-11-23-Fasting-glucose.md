@@ -93,7 +93,7 @@ back.
 
 [3] Ilias I, Milionis C, Zabuliene L, Rizzo M. Does Iodine Influence the Metabolism of Glucose? Medicina (Kaunas). 2023 Jan 17;59(2):189. doi: 10.3390/medicina59020189	
 
-<!-->
+<!--
 ## Water melon consumption
 
 Perhaps unsurprisingly, the strongest positive correlation I observe is that between consumption of water melon and the fasting
@@ -116,4 +116,4 @@ but I am putting this on my reading list.
 A cursory look through all associations between Iodine supplementation and the rest of my data reveals number of other interesting
 links, so expect a dedicated post on Iodine in not to distant future.
 
-<--!>
+-->
