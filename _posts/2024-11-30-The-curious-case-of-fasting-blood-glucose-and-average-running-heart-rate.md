@@ -25,7 +25,7 @@ that shows up.
 
 Having found this strange relationship, I have searched the literature if similar effect has been previously found, but 
 while I can find couple of studies looking into relationship between fasting blood glucose and HRV, I could not find any 
-study specifically looking at the relationship I am describing here. Neither could I find studies evaluating the link  between 
-general running and performance and fasting blood glucose before the run. If any reader knows of any relevant research on this 
-topic please let me know below in the comments! It would be most appreciated.
+study specifically looking at the relationship betweeing fasting blood glucose and mean running heart rate. Neither could I 
+find studies evaluating the link  between general running and performance and fasting blood glucose before the run. If any 
+reader knows of any relevant research on this topic please let me know below in the comments! It would be most appreciated.
 
