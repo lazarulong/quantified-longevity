@@ -10,7 +10,7 @@ my effort level.
 Interestingly, it turns out that there is a strong positive association (R=0.33; N=70; p<0.005) between the fasting glucose on the day 
 of the run and the average heart rate the chest strap recorded during the run: 
 
-{% capture image_path %}{{ site.url }}{{ site.baseurl }}/assets/images/posts/what_influences_my_sleep/fbg_and_polarHR/PolarHR.png{% endcapture %}
+{% capture image_path %}{{ site.url }}{{ site.baseurl }}/assets/images/posts/fbg_and_polarHR/PolarHR.png{% endcapture %}
 {% include figure popup=true image_path=image_path alt="this is a placeholder image" caption="Alcohol vs. FSS" %}
 
 If I shift the data by one day, such that I correlate the blood glucose from the previous day, a smaller but still statistically 
