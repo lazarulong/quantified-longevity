@@ -46,7 +46,7 @@ Finally, I was surprised to find an internet full of claims that cider vinegar b
 The third - and also unexpected - positive intervention seems to be Hyaluronic Acid, with (R=0.123; p=0.004). I will admit that this one is particularly surprising and relatively weak so I will be monitoring it in the future if the correlations holds up. I was off Hyaluronic acid for a while now, so I will reintroduce it to further test this unexpected relationship. It could be that I just happened to sleep slightly worse lately, while off the Hyaluronic acid, which could create this spurious correlation.
 
 
-## Ultraprocessed food
+## Ultra-processed food
 
 While I try to avoid it as much as possible, it still happens from time to time that I eat some ultra-processed food. Interestingly, even with such low frequency I can still clearly see the negative impact on
 my sleep the following night:

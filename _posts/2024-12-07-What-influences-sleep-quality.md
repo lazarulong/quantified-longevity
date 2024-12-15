@@ -62,8 +62,6 @@ Another very clear positive impact on quality of sleep is the number of steps I 
 
 The causality here also seems to be very clear, with shifting of the data just by one day completely abolishing the association. 
 
-
-
 ### Magnesium malate is positively associated with tossing & turning
 
 Rather surprisingly, magnesium malate seems to be increasing the restlessness of my sleep (R=0.16; p<0.0001;N=708). This is rather unexpected, as generally magnesium tends to be hyped as a sleep enhancing element. This goes along with my other finding I have posted in earlier post, that for me Magnesium Threonate, often explicitly sold as a sleep remedy, has no positive impact on my sleep according to my data.
